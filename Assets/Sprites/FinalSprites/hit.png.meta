@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: cfc1ed6cd9f754edca00320e12a66e26
+timeCreated: 1455218924
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hit_0
+    21300002: hit_1
+    21300004: hit_2
+    21300006: hit_3
+    21300008: hit_4
+    21300010: hit_5
+    21300012: hit_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 956
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.5, y: -64.5}
+        - {x: -84.5, y: -65.5}
+        - {x: 87.5, y: -65.5}
+        - {x: 87.5, y: -59.5}
+        - {x: 54.5, y: 37.5}
+        - {x: 26.5, y: 62.5}
+        - {x: -22.5, y: 62.5}
+        - {x: -54.5, y: 45.5}
+    - name: hit_1
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 0
+        width: 956
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.42856, y: 58.5}
+        - {x: -59.42856, y: 36.5}
+        - {x: -86.42856, y: -59.5}
+        - {x: -86.42856, y: -65.5}
+        - {x: 91.57144, y: -65.5}
+        - {x: 91.57144, y: 30.5}
+        - {x: 34.57144, y: 58.5}
+    - name: hit_2
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 0
+        width: 956
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.357117, y: 51.5}
+        - {x: -73.35712, y: -1.5}
+        - {x: -93.35712, y: -61.5}
+        - {x: -93.35712, y: -65.5}
+        - {x: 97.64288, y: -65.5}
+        - {x: 97.64288, y: -41.5}
+        - {x: 60.642883, y: 51.5}
+    - name: hit_3
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 0
+        width: 956
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96.285706, y: -63.5}
+        - {x: -96.285706, y: -65.5}
+        - {x: 101.714294, y: -65.5}
+        - {x: 101.714294, y: -39.5}
+        - {x: 73.714294, y: 46.5}
+        - {x: -71.285706, y: 46.5}
+        - {x: -79.285706, y: -11.5}
+    - name: hit_4
+      rect:
+        serializedVersion: 2
+        x: 3824
+        y: 0
+        width: 956
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92.21423, y: -48.5}
+        - {x: -92.21423, y: -65.5}
+        - {x: 96.78577, y: -65.5}
+        - {x: 96.78577, y: -54.5}
+        - {x: 66.78577, y: 31.5}
+        - {x: 32.785767, y: 49.5}
+        - {x: -36.214233, y: 49.5}
+        - {x: -49.214233, y: 45.5}
+    - name: hit_5
+      rect:
+        serializedVersion: 2
+        x: 4780
+        y: 0
+        width: 956
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.142822, y: 57.5}
+        - {x: -29.142822, y: 54.5}
+        - {x: -60.142822, y: 23.5}
+        - {x: -86.14282, y: -61.5}
+        - {x: -86.14282, y: -65.5}
+        - {x: 90.85718, y: -65.5}
+        - {x: 90.85718, y: -17.5}
+        - {x: 39.857178, y: 57.5}
+    - name: hit_6
+      rect:
+        serializedVersion: 2
+        x: 5736
+        y: 0
+        width: 956
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.928589, y: 62.5}
+        - {x: -24.071411, y: 62.5}
+        - {x: -56.07141, y: 47.5}
+        - {x: -78.07141, y: -29.5}
+        - {x: -83.07141, y: -62.5}
+        - {x: -83.07141, y: -65.5}
+        - {x: 87.92859, y: -65.5}
+        - {x: 87.92859, y: -51.5}
+        - {x: 52.92859, y: 38.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

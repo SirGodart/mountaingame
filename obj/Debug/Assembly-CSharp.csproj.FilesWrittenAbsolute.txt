@@ -1,0 +1,17 @@
+/Users/godartraets/repo/DigitalPlayground/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/godartraets/repo/DigitalPlayground/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/godartraets/repo/DigitalPlayground/obj/Debug/Assembly-CSharp.dll
+/Users/godartraets/repo/DigitalPlayground/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/godartraets/repo/DigitalPlayground/Temp/bin/Debug/UnityEngine.dll
+/Users/godartraets/repo/DigitalPlayground/Temp/bin/Debug/UnityEditor.dll
+/Users/godartraets/repo/DigitalPlayground/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/godartraets/repo/DigitalPlayground/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/godartraets/repo/DigitalPlayground/Temp/bin/Debug/Mono.Cecil.dll
+/Users/godartraets/repo/DigitalPlayground/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/godartraets/repo/DigitalPlayground/Temp/bin/Debug/Unity.DataContract.dll
+/Users/godartraets/repo/DigitalPlayground/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/godartraets/repo/DigitalPlayground/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/godartraets/repo/DigitalPlayground/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/godartraets/repo/DigitalPlayground/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/godartraets/repo/DigitalPlayground/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/godartraets/repo/DigitalPlayground/Temp/bin/Debug/Mono.Cecil.Mdb.dll

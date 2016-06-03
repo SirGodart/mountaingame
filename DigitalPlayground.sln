@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{983EFD63-6668-18F3-04E6-E8F0FB83E35A}") = "DigitalPlayground", "Assembly-CSharp.csproj", "{FA8CAB30-67C1-4B7B-103D-5A233F87B4D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA8CAB30-67C1-4B7B-103D-5A233F87B4D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8CAB30-67C1-4B7B-103D-5A233F87B4D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8CAB30-67C1-4B7B-103D-5A233F87B4D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8CAB30-67C1-4B7B-103D-5A233F87B4D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
